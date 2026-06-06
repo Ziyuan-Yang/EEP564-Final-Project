@@ -147,10 +147,7 @@ We also benchmark Llama model on a H200 GPU:
 ./build/bin/llama-cli \
     -m ./models/Llama-3.2-1B-Instruct-Q4_K_M.gguf \
     --threads 3 \
-    -i \
-    -p "You are a helpful assistant." \
-    --in-prefix "User: " \
-    --in-suffix "\nAssistant:"
+    -p "You are a helpful assistant."
 ```
 
 ## References
