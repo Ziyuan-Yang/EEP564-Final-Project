@@ -1,4 +1,5 @@
 # TinyChat on the Edge: Deploying and Evaluating LLMs on Edge-ML Device
+## Author: Sheng Wei, Ziyuan Yang
 
 Systematic deploying and evaluating of ~1B parameter LLMs across quantization levels on 8GB Raspberry Pi 5 using llama.cpp.
 
